@@ -1,5 +1,10 @@
 # vRP_doorsControl vrpex
+made a pop-up in Russian English
+
 Door control system. The doors are fully synchronized between the players and also retain their position until the resource reboots
+
+script https://forum.fivem.net/u/XanderWP I rewrote it vrpex helped https://forum.fivem.net/u/marmota/summary original https://forum.fivem.net/t/release-doors-control-vrp/82797
+
 # Install
 Unpack to folder resources, add in server.cfg "start vRP_doorsControl"
 # Keys
