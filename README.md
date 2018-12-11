@@ -1,5 +1,5 @@
 # vRP_doorsControl vrpex
-made a pop-up in Russian English
+made a pop-up window in Russian English
 
 Door control system. The doors are fully synchronized between the players and also retain their position until the resource reboots
 
